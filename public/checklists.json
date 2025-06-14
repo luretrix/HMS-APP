@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Oppstart grøft",
+    "items": [
+      "Er området sikret?",
+      "Er gravemelding på plass?",
+      "Er det kabler i området?",
+      "Er varsling satt opp?"
+    ]
+  },
+  {
+    "title": "Daglig kontroll maskin",
+    "items": [
+      "Olje- og væskenivå",
+      "Lys og varsling",
+      "Ingen lekkasjer"
+    ]
+  }
+]
