@@ -4,34 +4,43 @@
     "model": "Åkermann H7C",
     "year": 1900,
     "image": "/maskiner/åkerman-h7c.jpg",
-    "notes": "Har kun tannskuff"
+    "notes": "Har kun tannskuff",
+    "location": "p1"
   },
   {
     "name": "Hjullaster",
     "model": "Volvo L90",
     "year": 2000,
     "image": "/maskiner/åkerman-h7c.jpg",
-    "notes": "Daglig bruk på lagerplass"
+    "notes": "Daglig bruk på lagerplass",
+    "location": "p2"
+
   },
   {
     "name": "Gravemaskin 2",
     "model": "Kubota kx161",
     "year": 1997,
     "image": "/maskiner/kubota-kx161-2.jpg",
-    "notes": "5t maskin"
+    "notes": "5t maskin",
+    "location": "fleet"
+
   },
   {
     "name": "400kg Vibroplate",
     "model": "Mikasa MVH-208 DZS",
     "year": 1997,
     "image": "/maskiner/mikasa-mvh208.jpg",
-    "notes": "5t maskin"
+    "notes": "5t maskin",
+    "location": "p2"
+
   },
   {
     "name": "60kg Vibroplate",
     "model": "kx161",
     "year": 1997,
     "image": "/maskiner/kubota-kx161-2.jpg",
-    "notes": "5t maskin"
+    "notes": "5t maskin",
+    "location": "fleet"
+
   }
 ]

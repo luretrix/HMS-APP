@@ -1,7 +1,5 @@
 [
-  "VA-prosjekt Oslo",
-  "VA-prosjekt Bergen",
-  "Rehabilitering Stavanger",
-  "Graving Trondheim",
-  "Vedlikehold Kristiansand"
+  { "id": "p1", "name": "Hjemme", "active": true },
+  { "id": "p2", "name": "Nils Gunnar", "active": true },
+  { "id": "p3", "name": "Lill og Runar", "active": true }
 ]
